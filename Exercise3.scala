@@ -1,6 +1,5 @@
 
-// Rotem Levi 205785959
-// Hila Ferber 305232217
+
 object Exercise3 {
   
   def  evenPlaces[A] (alist: List[A]): List[A] =
